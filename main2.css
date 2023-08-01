@@ -1,0 +1,14 @@
+.body{
+    background-color: white;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    overflow:scroll;
+}
+.upperconainer{
+    width:70%;
+    display:inline;
+}
+.logo{
+    height:8%;
+    width: 8%;
+}

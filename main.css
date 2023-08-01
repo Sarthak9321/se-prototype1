@@ -1,0 +1,31 @@
+.body{
+    background-color: white;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    overflow:scroll;
+}
+.upperconainer{
+    width:70%;
+    display:inline;
+}
+.logo{
+    height:8%;
+    width: 8%;
+}
+.login{
+    background-color:transparent;
+    margin-left: 70%;
+}
+.namecontainer{
+    margin-left: 25%;
+    margin-top: -4.8%;
+}
+.marqueeclass{
+   font-size: larger;
+   height:0%;
+}
+.moredetails{
+    background-color:aquamarine ;
+    align-items: baseline;
+    padding-right: 10%;
+}
